@@ -1,5 +1,5 @@
 # Test Gear TMS importers
-![Test IT](https://raw.githubusercontent.com/testgear-tms/importers/main/images/banner.png)
+![Test Gear](https://raw.githubusercontent.com/testgear-tms/importers/main/images/banner.png)
 
 # Allure report
 
