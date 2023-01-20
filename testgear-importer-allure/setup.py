@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='testgear-importer-allure',
-    version='1.2.4',
+    version='1.2.9',
     description='Allure report importer for TestGear',
     long_description=open('README.md', "r").read(),
     long_description_content_type="text/markdown",
