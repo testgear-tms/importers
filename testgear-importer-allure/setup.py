@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='testgear-importer-allure',
-    version='1.2.9',
+    version='1.3.0',
     description='Allure report importer for TestGear',
     long_description=open('README.md', "r").read(),
     long_description_content_type="text/markdown",
@@ -19,7 +19,7 @@ setup(
     packages=['testgear_importer_allure'],
     package_data={'testgear_importer_allure': ['../connection_config.ini']},
     package_dir={'testgear_importer_allure': 'src'},
-    install_requires=['testgear-api-client>=2,<3',
+    install_requires=['testgear-api-client==3.0.0',
                       'xmltodict',
                       'python-interface',
                       'minio',
